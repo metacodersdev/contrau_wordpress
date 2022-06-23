@@ -1,0 +1,39 @@
+
+---Downloaded files---
+The import files for: Societas Theme Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://localhost
+Data file = /opt/bitnami/wordpress/wp-content/uploads/2022/06/demo-content-import-file_2022-06-13__09-30-33.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
